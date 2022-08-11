@@ -1,4 +1,4 @@
-
+require("dotenv").config();
 let Web3 = require("web3");
 const abis = require("./abis");
 const BigNumber = require("bignumber.js");
